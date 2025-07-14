@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.semestre {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #aaa;
+  border-radius: 10px;
+}
+
+.semestre h2 {
+  margin-top: 0;
+}
+
+.ramo {
+  display: flex;
+  align-items: center;
+  margin: 5px 0;
+}
+
+.ramo input {
+  margin-right: 10px;
+}
